@@ -42,7 +42,7 @@ See https://perezdans.com/experimentos/panoramix/ for working example.
         panoramix.stopMoving();
 
     });
-
+```
 
 ## Based on
 * [Pano](https://seancoyne.github.io/pano)
