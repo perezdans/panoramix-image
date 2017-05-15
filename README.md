@@ -1,4 +1,3 @@
-=======
 # Panoramix Image
 
 **Panoramix** is a jQuery component to show panoramic images inside a container. **You can move your image left or right with your mouse or your finger**. If you need an Image Map, it will move with your image and adjust responsivily if neccessary.
@@ -47,7 +46,6 @@ See https://perezdans.com/experimentos/panoramix/ for working example.
 ## Based on
 * [Pano](https://seancoyne.github.io/pano)
 
----
 ## Author
 @perezdans
 http://perezdans.com
