@@ -9,7 +9,7 @@ So i started working with [pano](https://seancoyne.github.io/pano), and changed 
 ## Requires
 
 * [jQuery 1.11+:](https://jquery.com/)
-* [jQuery RWD Image Maps:](https://github.com/stowball/jQuery-rwdImageMaps)
+* [jQuery RWD Image Maps:](https://github.com/stowball/jQuery-rwdImageMaps) - Just in case you need to apply image maps
 
 ## Options
 * `interval` - How often to trigger the move command when the user holds down the mouse button, touch or if you call the `moveLeft` or `moveRigh` API methods. (Default 100ms)
@@ -40,6 +40,7 @@ See https://perezdans.com/experimentos/panoramix/ for working example.
         panoramix.moveRight();
         panoramix.stopMoving();
 
+        //jQuery('img[usemap]').rwdImageMaps();  //Uncomment if you have an image map
     });
 ```
 
@@ -48,6 +49,7 @@ See https://perezdans.com/experimentos/panoramix/ for working example.
 
 ## Author
 @perezdans
+
 http://perezdans.com
 
 
